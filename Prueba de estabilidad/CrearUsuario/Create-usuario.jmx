@@ -224,7 +224,7 @@
           <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="Configuración del CSV Data Set" enabled="true">
             <stringProp name="delimiter">,</stringProp>
             <stringProp name="fileEncoding"></stringProp>
-            <stringProp name="filename">C:/Users/Personal/Desktop/Testing/Pruebas de carga/CrearUsuario/DataUsuarios/PrimerosUsuarios.txt</stringProp>
+            <stringProp name="filename">C:/Users/Personal/Desktop/Testing/Prueba de estabilidad/CrearUsuario/DataUsuarios/PrimerosUsuarios.txt</stringProp>
             <boolProp name="ignoreFirstLine">false</boolProp>
             <boolProp name="quotedData">false</boolProp>
             <boolProp name="recycle">true</boolProp>
